@@ -7,5 +7,7 @@
 		"path": "E:\\JPNP\\ng"
 	}
 ],
-  "settings": {}
+"settings": {
+	"liveServer.settings.multiRootWorkspaceName": "ng"
+}
 }
